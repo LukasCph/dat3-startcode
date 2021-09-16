@@ -15,13 +15,10 @@
         
         <!-- TODO: Add the URL to your own tomcat server. Used to deploy your WAR-file -->
         <!-- IMPORTANT-1: If your server uses https (via NGINX) use your DOMAIN NAME and https below: -->
-<<<<<<< HEAD
+
         <!-- IMPORTANT-2: Observe we are NOT using /manager/html but /manager/text for script uploads -->   
 	<remote.server>https://proxey.xyz/manager/text</remote.server>
-=======
-        <!-- IMPORTANT-2: Observe we are NOT using /manager/html but /manager/text for script uploads --> 
-	<remote.server>https://www.proxey.xyz/manager/text</remote.server>
->>>>>>> 1d6e50a21226be4a74fe43697fa78da9e6eeae30
+
 
         <!-- TODO: Add your own database name -->
         <!-- IMPORTANT-1: The database should exist on your droplet -->
